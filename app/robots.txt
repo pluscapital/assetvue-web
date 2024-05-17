@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /
+
+Sitemap: https://investors.pluscash.club/sitemap.xml

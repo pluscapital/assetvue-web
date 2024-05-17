@@ -1,0 +1,7 @@
+{
+  "name": "Pluscash Investment App",
+  "short_name": "Pluscash",
+  "description": "Invest your cash with private wealth experts",
+  "start_url": "/?source=pwa",
+  "display": "fullscreen"
+}
